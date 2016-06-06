@@ -45,11 +45,11 @@ App Insight - More Injuries at Night
 
 Find Out More About the App
 ========================================================
-You can access the app at [shinyapps.io](https://tryfanak.shinyapps.io/NYPD_MVC/).
+You can access the app at [shinyapps.io](https://tryfanak.shinyapps.io/NYPD_MVC/). Give it a few moments to load...
 
-Source code (server.R and ui.R) for the app is in the [NYPD_MVC](Tryfanak/NYPD_MVC) repository on my github page. Look there to see the reactive elements and calculations I used in the app.
+Source code (server.R and ui.R) for the app is in the [NYPD_MVC](https://github.com/Tryfanak/NYPD_MVC/tree/master) repository on my github page. Look there to see the reactive elements and calculations I used in the app.
 
-The [markdown file] for this presentation is also on github. Look there to see the R codes that is executed to create these slides.
+The file (NYPD_MVC_Pitch.RPres) which created this presentation is also on github, in the [NYPD_MVC_Presentation](https://github.com/Tryfanak/NYPD_MVC/tree/master/Presentation) folder. Look there to see the R code that is executed in these slides.
 
-Original data taken from [NYPD Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) dataset at NYC OpenData website.
+The original data for the app is taken from [NYPD Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) dataset at NYC OpenData website.
 
